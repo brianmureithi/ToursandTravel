@@ -1,0 +1,7 @@
+user agent: *
+disallow:/
+disallow:/
+disallow:/
+disallow:/
+disallow:/
+disallow:/
